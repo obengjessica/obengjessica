@@ -1,45 +1,45 @@
-# 👋 Hi, I'm Jessica Obeng — `@obengjessica`
+![Header](https://github.com/obengjessica/obengjessica/blob/main/assets/header.png)
 
-```txt
-Full Stack Developer | UI/UX Enthusiast | ML Explorer | Lifelong Learner
-🚀 About Me
-👩🏽‍💻 I'm a passionate Full Stack Developer with hands-on experience in React.js, Node.js, Express, and MongoDB
+# 👋 Hi, I'm Jessica Obeng
 
-🎨 Skilled in building user-friendly interfaces with Tailwind CSS, Figma, and Bootstrap
+🎓 Full Stack Developer | UI/UX Enthusiast | Future ML Explorer  
+📍 Based in Accra, Ghana
 
-🤖 I’m currently learning Machine Learning and exploring AI integrations
+---
 
-🛠️ I enjoy turning real-life problems into smart software solutions
+## 🛠️ Tech & Tools  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=obengjessica.obengjessica)
 
-🌱 Always open to new tech, challenges, and collaboration
+---
 
-🧠 Skills & Tools
-Frontend:   React.js · HTML5 · CSS3 · Tailwind · Bootstrap · JavaScript
-Backend:    Node.js · Express.js · MongoDB · REST APIs
-Tools:      Git & GitHub · VS Code · Figma · Postman · Vite
-Learning:   Python · Machine Learning · Firebase · Docker
+## 🚀 About Me  
+I build responsive web applications using **React**, **Node.js**, **Express**, and **MongoDB**, with stunning UIs designed in **Figma**.  
+Exploring **Machine Learning** and AI-powered solutions next! I believe in learning by doing.
 
-💼 Projects
-Di Dwa Groceries App — Frontend UI for a foodstuffs e-commerce app (React + Tailwind + Swiper.js)
+---
 
-Portfolio Website — Personal site (in progress)
+## 💼 Featured Project  
+**Di Dwa Groceries App** – A full‑stack platform built with React, Tailwind, and SwiperJS.  
+👉 [View on GitHub](https://github.com/obengjessica/di-dwa)
 
-More coming soon! — Skincare app, ML mini-projects, blog site, etc.
-📫 Connect with Me
-💌 Email: blaqluv233@gmail.com / jaobeng018@st.ug.edu.gh
+---
 
-🌍 Location: Ghana, West Africa
+## 🏆 GitHub Stats & Trophies  
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=obengjessica&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obengjessica&layout=compact&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=obengjessica&theme=dark&no-frame=true)
 
-📞 WhatsApp: +233 591 286 053
+---
 
-💬 Quote I Live By
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
-"The best way to learn is by building and failing forward." – Me 😄
+## 📫 Get in Touch  
+- 💌 [Email](mailto:jaobeng018@st.ug.edu.gh)  
+- 💼 LinkedIn: *(Add your link)*  
+- 🌱 Portfolio: *Coming soon*
 
-📈 GitHub Stats
+---
 
-
-🦾 Motto
-"Code with purpose. Build with passion. Learn without limits."
-
-
+> **"Code with purpose. Build with passion. Learn without limits."**
