@@ -1,8 +1,9 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jessica+Obeng!;Full+Stack+Developer+%2B+UI%2FUX+Designer+%F0%9F%92%BB+from+Ghana+%F0%9F%87%AC%F0%9F%87%AD;Lifelong+Learner+%F0%9F%93%9A+and+Problem+Solver+%E2%9C%8C%EF%B8%8F;Exploring+Machine+Learning+%F0%9F%A7%AC+soon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jessica+Obeng!;Full%2DStack+Developer+%2B+UI%2FUX+Designer+%F0%9F%92%BB+from+Ghana+%F0%9F%87%AC%F0%9F%87%AD;Lifelong+Learner+%F0%9F%93%9A+and+Problem+Solver+%E2%9C%8C%EF%B8%8F;Exploring+Machine+Learning+%F0%9F%A7%AC+soon" alt="Typing SVG" />
 </p>
+
 
 
 ---
