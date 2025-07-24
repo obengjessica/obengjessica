@@ -23,12 +23,23 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:blaqluv233@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/obeng-jessica-afriyie-1375aa329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a>
-  <a href="https://github.com/obengjessica"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://wa.me//<233591286053>"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Jezz_Jezzerr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:blaqluv233@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/obeng-jessica-afriyie-1375aa329">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/obengjessica">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/233591286053">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Jezz_Jezzerr">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
