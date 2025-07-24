@@ -11,10 +11,12 @@
 - 🎓 I'm a passionate **Full-Stack Developer & UI/UX**
 - 🛠️ Skilled in `React`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `Java`, `Tailwind CSS`, `Bootstrap`,` React Native`,  `MongoDB`,  `Video-Editing`, `3D-Video Animation`, ` Camera operating`, `Graphic Design`, and more
 - 🤖 Eager to explore `Machine Learning`,  and `AI`
+-    Co-founder of JEZZERR LABs
 - 🌍 Based in Ghana 🇬🇭
 - 🧠 Always learning, always growing
 - ✨ Building projects that matter — one line of code at a time
 -    Open to work
+-    Visit initial site https://obengjessica.github.io/Jezzerr-Labs/
 
 ---
 
@@ -33,8 +35,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,javascript, react native, MongoDB, git,github, bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,reactnative,mongodb,git,github,bootstrap,figma" />
 </p>
+
 
 ---
 
