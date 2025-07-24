@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://github.com/obengjessica/obengjessica/blob/main/IMG-20250504-WA0013.jpg" alt="Welcome Banner" style=" height:60% width:80%;"/>
+<img src="https://github.com/obengjessica/obengjessica/blob/main/IMG-20250504-WA0013.jpg" alt="Welcome Banner" style=" height:40% width:100%;"/>
 
 <!-- Animated Typing Text -->
 <p align="center">
@@ -83,5 +83,5 @@
 ## ✨ Thanks for Visiting!
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=obengjessica&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img src="https://github.com/obengjessica/obengjessica/blob/main/WhatsApp%20Image%202025-06-27%20at%2009.29.18_2a6009a6.jpg?id=obengjessica&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </p>
