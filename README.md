@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,javascript,react native,MongoDB,git,github,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,javascript, react native, MongoDB, git,github, bootstrap,figma" />
 </p>
 
 ---
