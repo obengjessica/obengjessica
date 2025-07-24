@@ -1,15 +1,45 @@
-👋 Hi, I’m Obeng Jessica Afriyie
-- 👀 I’m interested in coding to the core... (i.e, everything about technology)
-- 🌱 I’m ( Aspiring Full-stack dev) engaging in Web development and App development.UI/UX initiative: I am also proficient in graphic design, camera operation, 3D animation, and video editing.
-- I'm the cofounder of Jezzerr Labs.
-- Would like to learn Machine Learning and Cyber Security (Join the Red Team)
-- 💞️ I’m looking to collaborate on a project called Deco, Fibo, I'm Here, and more 
-- 📫 How to reach me -- blaqluv233@gmail.com / blaqluv@icloud.com
-- Reach out to me on my company site, called Jezzerr Labs
-- https://obengjessica.github.io/Jezzerr-Labs/
-- ⚡ Fun fact: I love to code for fun
+# 👋 Hi, I'm Jessica Obeng — `@obengjessica`
 
-<!---
-ObengJessicaAfriyie/ObengJessicaAfriyie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```txt
+Full Stack Developer | UI/UX Enthusiast | ML Explorer | Lifelong Learner
+🚀 About Me
+👩🏽‍💻 I'm a passionate Full Stack Developer with hands-on experience in React.js, Node.js, Express, and MongoDB
+
+🎨 Skilled in building user-friendly interfaces with Tailwind CSS, Figma, and Bootstrap
+
+🤖 I’m currently learning Machine Learning and exploring AI integrations
+
+🛠️ I enjoy turning real-life problems into smart software solutions
+
+🌱 Always open to new tech, challenges, and collaboration
+
+🧠 Skills & Tools
+Frontend:   React.js · HTML5 · CSS3 · Tailwind · Bootstrap · JavaScript
+Backend:    Node.js · Express.js · MongoDB · REST APIs
+Tools:      Git & GitHub · VS Code · Figma · Postman · Vite
+Learning:   Python · Machine Learning · Firebase · Docker
+
+💼 Projects
+Di Dwa Groceries App — Frontend UI for a foodstuffs e-commerce app (React + Tailwind + Swiper.js)
+
+Portfolio Website — Personal site (in progress)
+
+More coming soon! — Skincare app, ML mini-projects, blog site, etc.
+📫 Connect with Me
+💌 Email: blaqluv233@gmail.com / jaobeng018@st.ug.edu.gh
+
+🌍 Location: Ghana, West Africa
+
+📞 WhatsApp: +233 591 286 053
+
+💬 Quote I Live By
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"The best way to learn is by building and failing forward." – Me 😄
+
+📈 GitHub Stats
+
+
+🦾 Motto
+"Code with purpose. Build with passion. Learn without limits."
+
+
