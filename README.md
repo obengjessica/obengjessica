@@ -8,7 +8,7 @@
 
 ## 👩🏾‍💻 About Me
 
-- 🎓 I'm a passionate **Full-Stack Developer**
+- 🎓 I'm a passionate **Full-Stack Developer & UI/UX**
 - 🛠️ Skilled in `React`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `Java`, `Tailwind CSS`, `Bootstrap`,` React Native`,  `MongoDB`,  `Video-Editing`, `3D-Video Animation`, ` Camera operating`, `Graphic Design`, and more
 - 🤖 Eager to explore `Machine Learning`,  and `AI`
 - 🌍 Based in Ghana 🇬🇭
@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,javascript,reactnative,mongodb,git,github,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,javascript,react native,MongoDB,git,github,bootstrap,figma" />
 </p>
 
 ---
