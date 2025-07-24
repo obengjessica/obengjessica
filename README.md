@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://github.com/obengjessica/obengjessica/blob/main/assets/header.png" alt="Welcome Banner" style="width:100%;"/>
+<img src="https://github.com/obengjessica/obengjessica/blob/main/IMG-20250504-WA0013.jpg" alt="Welcome Banner" style="width:100%;"/>
 
 <!-- Animated Typing Text -->
 <p align="center">
