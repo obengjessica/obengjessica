@@ -23,7 +23,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:jaobeng018@st.ug.edu.gh"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:blaqluv233@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jessicaobeng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/obengjessica"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://img.shields.io/badge/WhatsApp-25D366"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -35,7 +35,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,reactnative,mongodb,git,github,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,mongodb,git,github,bootstrap,figma" />
+  <img src="https://raw.githubusercontent.com/react-native-community/website/main/src/images/logo.png" height="40" alt="React Native" title="React Native"/>
 </p>
 
 
