@@ -11,11 +11,12 @@
 ## 👩🏾‍💻 About Me
 
 - 🎓 I'm a passionate **Full-Stack Developer**
-- 🛠️ Skilled in `React`, `Node.js`, `Java`, `Tailwind CSS`, `MongoDB`, and more
-- 🤖 Eager to explore `Machine Learning` and `AI`
+- 🛠️ Skilled in `React`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `Java`, `Tailwind CSS`, `Bootstrap`,` React Native`,  `MongoDB`,  `Video-Editing`, `3D-Video Animation`, ` Camera operating`, `Graphic Design`, and more
+- 🤖 Eager to explore `Machine Learning`,  and `AI`
 - 🌍 Based in Ghana 🇬🇭
 - 🧠 Always learning, always growing
 - ✨ Building projects that matter — one line of code at a time
+-    Open to work
 
 ---
 
