@@ -1,6 +1,6 @@
 👋 Hi, I’m Obeng Jessica Afriyie
 - 👀 I’m interested in coding to the core... (i.e, everything about technology)
-- 🌱 I’m engaging in Web development and App development.UI/UX initiative: I am also proficient in graphic design, camera operation, 3D animation, and video editing.
+- 🌱 I’m ( Aspiring Full-stack dev) engaging in Web development and App development.UI/UX initiative: I am also proficient in graphic design, camera operation, 3D animation, and video editing.
 - I'm the cofounder of Jezzerr Labs.
 - Would like to learn Machine Learning and Cyber Security (Join the Red Team)
 - 💞️ I’m looking to collaborate on a project called Deco, Fibo, I'm Here, and more 
