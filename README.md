@@ -63,6 +63,8 @@
 | **Di Dwa** 🛒 | Online foodstuff & grocery platform | React, Tailwind, Swiper |
 | **Algorithm Repo** 📊 | A Java toolkit for sorting/searching algorithms | Java, CLI |
 | **Alpha Hour Booking** 🙏 | Church consultation appointment system | React, Figma, Node *(planned)* |
+| **Skin Scanner App**       |A mobile app that scans skin            | React-Native with Expo - ML |
+| **Student Grade Tracker**  | A mobile app for tracking grades       | React-Native with Expo      |
 
 ---
 
