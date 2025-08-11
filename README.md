@@ -1,58 +1,46 @@
-
 <!-- Animated Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jessica+Obeng!;Full-Stack+Developer+%2B+UI%2FUX+%F0%9F%92%BB+from+Ghana+%F0%9F%87%AC%F0%9F%87%AD;Lifelong+Learner+%F0%9F%93%9A+and+Problem+Solver+%E2%9C%8C%EF%B8%8F;Exploring+Machine+Learning+%F0%9F%A7%AC+soon" alt="Typing SVG" />
 </p>
 
-
-
-
-
 ---
 
 ## 👩🏾‍💻 About Me
 
-- 🎓 I'm a passionate **Full-Stack Developer & UI/UX**
-- 🛠️ Skilled in `React`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `Java`, `Tailwind CSS`, `Bootstrap`,` React Native`,  `MongoDB`,  `Video-Editing`, `3D-Video Animation`, ` Camera operating`, `Graphic Design`, and more
-- 🤖 Eager to explore `Machine Learning`,  and `AI`
--    Co-founder of JEZZERR LABs
+- 🎓 Passionate **Full-Stack Developer & UI/UX Designer**
+- 🛠️ Skilled in `React`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `Java`, `Tailwind CSS`, `Bootstrap`, `React Native`, `MongoDB`, `Video Editing`, `3D Animation`, `Camera Operating`, `Graphic Design`, `Canva`, `Adobe Premiere Pro`, `Adobe Photoshop`
+- 🤖 Eager to explore `Machine Learning` and `AI`
+- 🚀 Co-founder of **JEZZERR LABs**
 - 🌍 Based in Ghana 🇬🇭
 - 🧠 Always learning, always growing
 - ✨ Building projects that matter — one line of code at a time
--    Open to work
--    Visit initial site https://obengjessica.github.io/Jezzerr-Labs/
+- 📂 Open to work
+- 🌐 Visit: [Jezzerr Labs](https://obengjessica.github.io/Jezzerr-Labs/)
 
 ---
 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:blaqluv233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/obeng-jessica-afriyie-1375aa329">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/obengjessica">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/233591286053">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Jezz_Jezzerr">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <a href="mailto:blaqluv233@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/obeng-jessica-afriyie-1375aa329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/obengjessica"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/233591286053"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Jezz_Jezzerr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
-
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,mongodb,git,github,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,mongodb,git,github,bootstrap,figma,photoshop" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+</p>
 
 ---
 
@@ -91,8 +79,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obengjessica&theme=radical" height="160" />
 </p>
 
-
-----
+---
 
 ## 🐍 GitHub Activity Graph
 
