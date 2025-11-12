@@ -7,9 +7,9 @@
 
 ## 👩🏾‍💻 About Me
 
-- 🎓 Passionate **Full-Stack Developer & UI/UX Designer**
+- 🎓 Passionate **Front-End-Developer & UI/UX Designer**
 - 🛠️ Skilled in `React`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `Java`, `Tailwind CSS`, `Bootstrap`, `React Native`, `MongoDB`, `Video Editing`, `3D Animation`, `Camera Operating`, `Graphic Design`, `Canva`, `Adobe Premiere Pro`, `Adobe Photoshop`
-- 🤖 Eager to explore `Machine Learning` and `AI`
+- 🤖 Eager to explore `Machine Learning`, `CyberSecurity` and `AI`
 - 🚀 Co-founder of **JEZZERR LABs**
 - 🌍 Based in Ghana 🇬🇭
 - 🧠 Always learning, always growing
