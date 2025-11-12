@@ -14,7 +14,8 @@
 - 🌍 Based in Ghana 🇬🇭
 - 🧠 Always learning, always growing
 - ✨ Building projects that matter — one line of code at a time
-- 📂 Open to work
+- 📂 Open to work  
+- 🌐 Visit: [Checkout My Portfolio](https://afriyie-portfolio.vercel.app/)
 - 🌐 Visit: [Jezzerr Labs](https://obengjessica.github.io/Jezzerr-Labs/)
 
 ---
